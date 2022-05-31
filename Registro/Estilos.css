@@ -1,0 +1,51 @@
+﻿body {
+    font-family: Arial;
+    background-color:aquamarine
+}
+form{
+    text-align: center;
+}
+h1{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+.btnregistro{
+    border-radius: 10px;
+    text-align:center;
+    font-family: Arial;
+    background-color:darkgray;
+    margin-top: 125px;
+    color:white;
+}
+div{
+    text-align:center;
+    padding: 8px;
+}
+label{
+    padding: 8px;
+}
+textbox{
+    padding: 8px;
+    border-color: black;
+}
+fieldset {
+    color: black;
+    text-align: center;
+    width: 550px;
+    margin: 0 auto;
+    margin-top: 80px;
+    border: 2px;
+}
+.form {
+    width: 550px;
+    margin-top: 80px;
+    border: 2px;
+    color:black;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
